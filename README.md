@@ -127,7 +127,7 @@ Each characteristic is measured 3 times (mean, standard error, worst), resulting
 | Sklearn | 98.25% | 0.98 | 0.98 | 0.99 | 0.99 |
 | From Scratch | 97.37% | 0.98 | 0.95 | 0.97 | 0.99 |
 
-For detailed analysis, see [comparison.ipynb](notebooks/comparison.ipynb)
+- For detailed analysis, see [comparison.ipynb](notebooks/comparison.ipynb)
 ---
 
 ## Author
