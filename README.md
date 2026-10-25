@@ -77,7 +77,7 @@ breast-cancer-classification-lr/
 ├── notebooks/
 │ └── comparison.ipynb 
 │
-├── result/ # Output: confusion matrices, plots
+├── result/ 
 │
 ├── README.md 
 ├── AI_Usage.md 
