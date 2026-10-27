@@ -71,18 +71,18 @@ This project implements Logistic Regression from scratch to understand the mathe
 breast-cancer-classification-lr/
 │
 ├── models/
-│ ├── from_sklearn.ipynb # Sklearn implementation
-│ └── from_scratch.ipynb # Custom NumPy implementation
+│ ├── from_sklearn.ipynb
+│ └── from_scratch.ipynb 
 │
 ├── notebooks/
-│ └── comparison.ipynb # Side-by-side comparison & analysis
+│ └── comparison.ipynb 
 │
-├── result/ # Output: confusion matrices, plots
+├── result/ 
 │
-├── README.md # Project overview
-├── AI_Usage.md # AI assistance documentation
-├── requirements.txt # Dependencies
-└── .gitignore # Git ignore rules
+├── README.md 
+├── AI_Usage.md 
+├── requirements.txt 
+└── .gitignore 
 
 ```
 ## Dataset
@@ -127,6 +127,7 @@ Each characteristic is measured 3 times (mean, standard error, worst), resulting
 | Sklearn | 98.25% | 0.98 | 0.98 | 0.99 | 0.99 |
 | From Scratch | 97.37% | 0.98 | 0.95 | 0.97 | 0.99 |
 
+- For detailed analysis, see [comparison.ipynb](notebooks/comparison.ipynb)
 ---
 
 ## Author
